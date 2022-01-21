@@ -4,3 +4,14 @@
 - 🌱 I’m currently learning TypeScript,  Vue, AWS Architect Associate  
 - 📫 How to reach me emremn07@gmail.com
 
+What I do 
+Implementing web design and development principles to build stable software
+Bringing mock-ups to life using the concepts
+Monitoring website performance and rectifying related issues
+Providing guidance and troubleshooting support to clients
+Testing to identify bugs and technical issues before and after deploying
+Documenting bug reports and any code changes
+
+Abilities
+Friendly, collaborative and be able to function well in team 
+Analytical, Innovative, Creative , Adaptable
